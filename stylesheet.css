@@ -58,18 +58,19 @@
 	font-size: 20px;
 	}
 		
-a:link {
+.PageLink:link {
 	color: black;
 	background-color: transparent;
 	text-decoration: underline;
 	}
-	a:visited {
+
+.PageLink:visited {
 	color: black;
 	background-color: transparent;
 	text-decoration: underline;
 	}
 	
-a:hover {
+.PageLink:hover {
 	color: blue;
 	background-color: transparent;
 	text-decoration: underline;
