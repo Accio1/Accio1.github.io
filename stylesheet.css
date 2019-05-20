@@ -1,6 +1,6 @@
 /*navbar*/
 .navbar {
-	background: #31ACBA;
+	background: #00bfff;
 	color: white;
 	font-size: 20px;
 	width: 100%;
@@ -12,7 +12,7 @@
 	}
 .head_button {
 	color: white;
-	background-color: #31ACBA;
+	background-color: #00bfff;
 	font-size: 16px;
 	transition-duration: 0.4s;
 	padding: 25px 5px 25px 5px;
@@ -21,7 +21,7 @@
 	float: right;
 	}
 .head_button:hover {
-	background-color: #056472;
+	background-color: #00a5ff;
 	}
 #head_title {
 	float: left;
